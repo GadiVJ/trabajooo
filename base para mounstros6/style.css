@@ -1,0 +1,40 @@
+body{
+    background: rgb(24, 45, 63);
+    font-family: .shadows-into-light-regular {
+        font-family: "Shadows Into Light", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+.header_div{
+    background: rgb(202, 78, 78);
+    color: rgb(45, 50, 199);
+}
+
+.main_div button{
+    font-family:.shadows-into-light-regular {
+        font-family: "Shadows Into Light", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_rigth_footer{
+    position: fixed;
+    color: rgb(67, 146, 185);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(6, , 206);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(170, 8, 8);
+}
+
